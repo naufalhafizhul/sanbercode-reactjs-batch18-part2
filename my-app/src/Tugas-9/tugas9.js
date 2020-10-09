@@ -5,7 +5,7 @@ class Form extends React.Component{
         return(
             <>
               <div className="App" style={{justifyContent:'center', marginLeft:'470px'}}>
-                 <form style = {{border:"5px solid black",borderRadius:"20px", width:"42%", padding:"20px"}}>
+                 <form style = {{border:"5px solid black",borderRadius:"20px", width:"43%", padding:"20px"}}>
                    <h2 style={{width:"200px",display:"inline", marginLeft:"70px"}}>Form Pembelian Buah</h2>
                       <br/>
                       <br/>
