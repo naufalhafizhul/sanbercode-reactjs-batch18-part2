@@ -13,7 +13,7 @@ class Timer extends Component{
     componentDidMount(){
       this.setState({
           time: new Date().toLocaleTimeString(),
-          count: this.props.start === undefined ? 5:this.props.start,
+          count: this.props.start === undefined ? 120:this.props.start,
       })
       this.timerID = setInterval(
         () => this.tick(),
