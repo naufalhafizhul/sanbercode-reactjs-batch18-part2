@@ -6,6 +6,7 @@ import Tampil from './Tugas-10/tugas10';
 import Timer from './Tugas-11/tugas11';
 import TabelBuah from './Tugas-12/tugas12';
 import Tugas13 from './Tugas-13/tugas13';
+import Buah from './Tugas-14/tugas14';
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       {/* <Form/> */}
       {/* <Timer/> */}
       {/* <TabelBuah/> */}
-      <Tugas13/>
+      {/* <Tugas13/> */}
+      <Buah/>
     </div>
   );
 }
