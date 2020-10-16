@@ -4,7 +4,7 @@ import './../App.css';
 import Routes from './tugas15-routes';
 import Nav from './tugas15-nav';
 
-export default Router= () => {
+export default Router = () => {
     return(
         <>
         <Router>
