@@ -7,6 +7,7 @@ import Timer from './Tugas-11/tugas11';
 import TabelBuah from './Tugas-12/tugas12';
 import Tugas13 from './Tugas-13/tugas13';
 import Buah from './Tugas-14/tugas14';
+import Router from './Tugas-15/tugas-15'
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       {/* <Timer/> */}
       {/* <TabelBuah/> */}
       {/* <Tugas13/> */}
-      <Buah/>
+      {/* <Buah/> */}
+      <Router/>
     </div>
   );
 }
